@@ -3,9 +3,9 @@ This simulation code package is mainly used to reproduce the results of the foll
 
 [1] Z. Han, L. Bai, X. Cai, and X. Cheng, “WiCo-MG: Wireless channel foundation model for multipath generation via Synesthesia of Machines,” npj Wireless Technology, 2026.
 
-<img width="1837" height="721" alt="image" src="https://github.com/user-attachments/assets/c665d23d-a99b-43dd-8245-6722ab5b1f8f" />
-
 If you use this simulation code package in any way, please cite the original paper [1] above.
+
+<img width="1837" height="721" alt="image" src="https://github.com/user-attachments/assets/c665d23d-a99b-43dd-8245-6722ab5b1f8f" />
 
 The model inference code has been released in this repository. The dataset and trained model weights will be made publicly available after the paper is formally published.
 

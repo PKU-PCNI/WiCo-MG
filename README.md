@@ -5,6 +5,6 @@ This simulation code package is mainly used to reproduce the results of the foll
 
 If you use this simulation code package in any way, please cite the original paper [1] above.
 
-Copyright reserved by the Pervasive Connectivity and Networked Intelligence Laboratory (led by Dr. Xiang Cheng), School of Electronics, Peking University, Beijing 100871, China.
+The model inference code has been released in this repository. The dataset and trained model weights will be made publicly available after the paper is formally published.
 
-The data and model inference code are being organized and will be open-sourced soon.
+Copyright reserved by the Pervasive Connectivity and Networked Intelligence Laboratory (led by Dr. Xiang Cheng), School of Electronics, Peking University, Beijing 100871, China.

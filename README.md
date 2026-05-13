@@ -41,7 +41,7 @@ The dataset and trained model weights will be made publicly available after the 
 python Inference.py
 ```
 
-This will run the inference pipeline and generate multipath parameter maps for the selected case study.
+This will run the inference pipeline and generate multipath parameter maps.
 
 
 Copyright reserved by the Pervasive Connectivity and Networked Intelligence Laboratory (led by Dr. Xiang Cheng), School of Electronics, Peking University, Beijing 100871, China.
